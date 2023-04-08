@@ -1,0 +1,773 @@
+{
+  "ConsumerData": {
+    "CIFAS": [
+      {
+        "LocationIndicator": "C",
+        "ApplicantIndicator": "1",
+        "CIFASDetails": [
+          {
+            "MatchDetails": {
+              "StreetMatchLevel": "4",
+              "HouseMatchLevel": "4",
+              "BureauRefCategory": "1",
+              "MatchTo": "1",
+              "MatchType": "I"
+            },
+            "InformationSource": "N",
+            "CIFASReference": "123123",
+            "FraudCategory": "06",
+            "SupplyDate": "2016-10-20",
+            "AndOtherLocations": "N",
+            "SupplyCompanyName": "TYPOBANK",
+            "SubCategories": "99",
+            "DateOfBirth": "1999-07-17",
+            "Product": "PDCA",
+            "Name": {
+              "Title": "MR",
+              "Forename": "JOHN",
+              "Surname": "WICK"
+            },
+            "Location": {
+              "HouseNumber": "114",
+              "Street": "W 40th",
+              "PostTown": "New York City",
+              "County": "BEDFORDSHIRE",
+              "Postcode": "TJFHD"
+            }
+          }
+        ]
+      }
+    ],
+    "CAIS": [
+      {
+        "LocationIndicator": "C",
+        "ApplicantIndicator": "1",
+        "CAISDetails": [
+          {
+            "MatchDetails": {
+              "StreetMatchLevel": "4",
+              "HouseMatchLevel": "4",
+              "ForenameMatchLevel": "4",
+              "SurnameMatchLevel": "4",
+              "BureauRefCategory": "1",
+              "MatchTo": "1",
+              "MatchType": "I"
+            },
+            "InformationSource": "N",
+            "CreditLimit": {
+              "Amount": "£1200",
+              "Caption": "C"
+            },
+            "Balance": {
+              "Amount": "£249"
+            },
+            "AccountStatusCodes": "00",
+            "Status1To2": "0",
+            "StatusTo3": "0",
+            "NumOfMonthsHistory": 2,
+            "CAISAccStartDate": "2022-05-30",
+            "SettleDateCaption": "S",
+            "LastUpdatedDate": "2022-07-03",
+            "BankFlag": "N",
+            "WorstStatus": "0",
+            "OwnData": "N",
+            "RepaymentPeriod": 0,
+            "DateOfBirth": "1999-07-17",
+            "Sex": "M",
+            "PaymentFrequency": "M",
+            "AccountStatus": "A",
+            "NumAddInfoBlocks": 0,
+            "NumAccountBalances": 2,
+            "AccountBalances": [
+              {
+                "AccountBalance": "0000249",
+                "Status": "0"
+              },
+              {
+                "AccountBalance": "0000000",
+                "Status": "0"
+              }
+            ],
+            "NumCardHistories": 2,
+            "CardHistories": [
+              {
+                "PrevStatementBal": "0000000",
+                "PromotionalRate": "Y",
+                "PaymentAmount": "0000000",
+                "NumCashAdvances": "0",
+                "CashAdvanceAmount": "0000000"
+              },
+              {
+                "PrevStatementBal": "0000000",
+                "PromotionalRate": "N",
+                "PaymentAmount": "0000000",
+                "NumCashAdvances": "0",
+                "CashAdvanceAmount": "0000000"
+              }
+            ],
+            "NumCreditLimChngs": 1,
+            "CredLimitHistories": [
+              {
+                "CreditLimitChange": "0000050",
+                "CreditLimitDate": {
+                  "CreditLimitDateMM": "07",
+                  "CreditLimitDateYY": "22"
+                }
+              }
+            ],
+            "NumStatuses": 2,
+            "CompanyType": "09",
+            "AccountType": "05",
+            "Name": {
+              "Title": "MR",
+              "Forename": "JOHN",
+              "Surname": "WICK"
+            },
+            "Location": {
+              "HouseNumber": "114",
+              "Street": "W 40th",
+              "PostTown": "New York City",
+              "Postcode": "TJFHD"
+            }
+          },
+          {
+            "MatchDetails": {
+              "StreetMatchLevel": "4",
+              "HouseMatchLevel": "4",
+              "ForenameMatchLevel": "4",
+              "SurnameMatchLevel": "4",
+              "BureauRefCategory": "1",
+              "MatchTo": "1",
+              "MatchType": "I"
+            },
+            "InformationSource": "N",
+            "Balance": {
+              "Amount": "£500"
+            },
+            "AccountStatusCodes": "00000000U",
+            "Status1To2": "0",
+            "StatusTo3": "0",
+            "NumOfMonthsHistory": 9,
+            "CAISAccStartDate": "2021-10-25",
+            "SettlementDate": "2022-06-04",
+            "SettleDateCaption": "S",
+            "LastUpdatedDate": "2022-07-03",
+            "BankFlag": "N",
+            "WorstStatus": "U",
+            "OwnData": "N",
+            "RepaymentPeriod": 6,
+            "Payment": "£101",
+            "DateOfBirth": "1999-07-17",
+            "Sex": "M",
+            "PaymentFrequency": "M",
+            "AccountStatus": "S",
+            "NumAddInfoBlocks": 0,
+            "NumAccountBalances": 9,
+            "AccountBalances": [
+              {
+                "AccountBalance": "0000000",
+                "Status": "0"
+              },
+              {
+                "AccountBalance": "0000000",
+                "Status": "0"
+              },
+              {
+                "AccountBalance": "0000020",
+                "Status": "0"
+              },
+              {
+                "AccountBalance": "0000121",
+                "Status": "0"
+              },
+              {
+                "AccountBalance": "0000223",
+                "Status": "0"
+              },
+              {
+                "AccountBalance": "0000315",
+                "Status": "0"
+              },
+              {
+                "AccountBalance": "0000417",
+                "Status": "0"
+              },
+              {
+                "AccountBalance": "0000509",
+                "Status": "0"
+              },
+              {
+                "AccountBalance": "0000611",
+                "Status": "U"
+              }
+            ],
+            "NumStatuses": 9,
+            "CompanyType": "02",
+            "AccountType": "02",
+            "Name": {
+              "Title": "MR",
+              "Forename": "JOHN",
+              "Surname": "WICK"
+            },
+            "Location": {
+              "HouseNumber": "114",
+              "Street": "W 40th",
+              "PostTown": "New York City",
+              "Postcode": "TJFHD"
+            }
+          },
+          {
+            "MatchDetails": {
+              "StreetMatchLevel": "4",
+              "HouseMatchLevel": "4",
+              "ForenameMatchLevel": "4",
+              "SurnameMatchLevel": "4",
+              "BureauRefCategory": "1",
+              "MatchTo": "1",
+              "MatchType": "I"
+            },
+            "InformationSource": "N",
+            "AccountStatusCodes": "0",
+            "Status1To2": "0",
+            "StatusTo3": "0",
+            "NumOfMonthsHistory": 1,
+            "CAISAccStartDate": "2022-06-25",
+            "SettleDateCaption": "S",
+            "LastUpdatedDate": "2022-07-31",
+            "BankFlag": "N",
+            "WorstStatus": "0",
+            "OwnData": "N",
+            "RepaymentPeriod": 0,
+            "DateOfBirth": "1999-07-17",
+            "Sex": "M",
+            "PaymentFrequency": "M",
+            "AccountStatus": "A",
+            "NumAddInfoBlocks": 0,
+            "NumAccountBalances": 1,
+            "AccountBalances": [
+              {
+                "AccountBalance": "0000000",
+                "Status": "0"
+              }
+            ],
+            "NumStatuses": 1,
+            "CompanyType": "17",
+            "AccountType": "59",
+            "Name": {
+              "Title": "MR",
+              "Forename": "JOHN",
+              "Surname": "WICK"
+            },
+            "Location": {
+              "HouseNumber": "114",
+              "Street": "W 40th",
+              "PostTown": "New York City",
+              "Postcode": "TJFHD"
+            }
+          }
+        ]
+      },
+      {
+        "LocationIndicator": "C",
+        "ApplicantIndicator": "1",
+        "CAISDetails": [
+          {
+            "MatchDetails": {
+              "StreetMatchLevel": "4",
+              "HouseMatchLevel": "4",
+              "ForenameMatchLevel": "4",
+              "SurnameMatchLevel": "4",
+              "BureauRefCategory": "1",
+              "MatchTo": "1",
+              "MatchType": "I"
+            },
+            "InformationSource": "N",
+            "Balance": {
+              "Narrative": "S"
+            },
+            "AccountStatusCodes": "0",
+            "Status1To2": "0",
+            "StatusTo3": "0",
+            "NumOfMonthsHistory": 1,
+            "CAISAccStartDate": "2018-10-16",
+            "SettlementDate": "2018-11-26",
+            "SettleDateCaption": "S",
+            "LastUpdatedDate": "2018-12-09",
+            "BankFlag": "N",
+            "WorstStatus": "0",
+            "OwnData": "N",
+            "RepaymentPeriod": 12,
+            "Payment": "£30",
+            "DateOfBirth": "1999-07-17",
+            "Sex": "M",
+            "PaymentFrequency": "M",
+            "AccountStatus": "S",
+            "NumAddInfoBlocks": 0,
+            "NumAccountBalances": 1,
+            "AccountBalances": [
+              {
+                "AccountBalance": "0000000",
+                "Status": "0"
+              }
+            ],
+            "NumStatuses": 1,
+            "CompanyType": "02",
+            "AccountType": "02",
+            "Name": {
+              "Title": "MR",
+              "Forename": "JOHN",
+              "Surname": "WICK"
+            },
+            "Location": {
+              "HouseNumber": "114",
+              "Street": "W 40th",
+              "PostTown": "New York City",
+              "Postcode": "TJFHD"
+            }
+          },
+          {
+            "MatchDetails": {
+              "StreetMatchLevel": "4",
+              "HouseMatchLevel": "4",
+              "ForenameMatchLevel": "4",
+              "SurnameMatchLevel": "4",
+              "BureauRefCategory": "1",
+              "MatchTo": "1",
+              "MatchType": "I"
+            },
+            "InformationSource": "N",
+            "AccountStatusCodes": "000000",
+            "Status1To2": "0",
+            "StatusTo3": "0",
+            "NumOfMonthsHistory": 6,
+            "CAISAccStartDate": "2022-01-12",
+            "SettleDateCaption": "S",
+            "LastUpdatedDate": "2022-07-17",
+            "BankFlag": "N",
+            "WorstStatus": "0",
+            "OwnData": "N",
+            "RepaymentPeriod": 0,
+            "DateOfBirth": "1999-07-17",
+            "Sex": "M",
+            "PaymentFrequency": "M",
+            "AccountStatus": "A",
+            "NumAddInfoBlocks": 0,
+            "NumAccountBalances": 6,
+            "AccountBalances": [
+              {
+                "AccountBalance": "0000000",
+                "Status": "0"
+              },
+              {
+                "AccountBalance": "0000000",
+                "Status": "0"
+              },
+              {
+                "AccountBalance": "0000000",
+                "Status": "0"
+              },
+              {
+                "AccountBalance": "0000000",
+                "Status": "0"
+              },
+              {
+                "AccountBalance": "0000000",
+                "Status": "0"
+              },
+              {
+                "AccountBalance": "0000000",
+                "Status": "0"
+              }
+            ],
+            "NumStatuses": 6,
+            "CompanyType": "01",
+            "AccountType": "15",
+            "Name": {
+              "Title": "MR",
+              "Forename": "JOHN",
+              "Surname": "WICK"
+            },
+            "Location": {
+              "HouseNumber": "114",
+              "Street": "W 40th",
+              "PostTown": "New York City",
+              "Postcode": "TJFHD"
+            }
+          },
+          {
+            "MatchDetails": {
+              "StreetMatchLevel": "4",
+              "HouseMatchLevel": "4",
+              "ForenameMatchLevel": "4",
+              "SurnameMatchLevel": "4",
+              "BureauRefCategory": "1",
+              "MatchTo": "1",
+              "MatchType": "I"
+            },
+            "InformationSource": "N",
+            "Balance": {
+              "Narrative": "S"
+            },
+            "AccountStatusCodes": "0000000000U",
+            "Status1To2": "0",
+            "StatusTo3": "0",
+            "NumOfMonthsHistory": 11,
+            "CAISAccStartDate": "2021-04-28",
+            "SettlementDate": "2022-02-28",
+            "SettleDateCaption": "S",
+            "LastUpdatedDate": "2022-03-13",
+            "BankFlag": "N",
+            "WorstStatus": "U",
+            "OwnData": "N",
+            "RepaymentPeriod": 0,
+            "DateOfBirth": "1999-07-17",
+            "Sex": "M",
+            "AccountStatus": "S",
+            "NumAddInfoBlocks": 0,
+            "NumAccountBalances": 11,
+            "AccountBalances": [
+              {
+                "AccountBalance": "0000000",
+                "Status": "0"
+              },
+              {
+                "AccountBalance": "0000000",
+                "Status": "0"
+              },
+              {
+                "AccountBalance": "0000000",
+                "Status": "0"
+              },
+              {
+                "AccountBalance": "0000000",
+                "Status": "0"
+              },
+              {
+                "AccountBalance": "0000000",
+                "Status": "0"
+              },
+              {
+                "AccountBalance": "0000000",
+                "Status": "0"
+              },
+              {
+                "AccountBalance": "0000000",
+                "Status": "0"
+              },
+              {
+                "AccountBalance": "0000000",
+                "Status": "0"
+              },
+              {
+                "AccountBalance": "0000000",
+                "Status": "0"
+              },
+              {
+                "AccountBalance": "0000000",
+                "Status": "0"
+              },
+              {
+                "AccountBalance": "0000000",
+                "Status": "U"
+              }
+            ],
+            "NumStatuses": 11,
+            "CompanyType": "02",
+            "AccountType": "15",
+            "Name": {
+              "Title": "MR",
+              "Forename": "JOHN",
+              "Surname": "WICK"
+            },
+            "Location": {
+              "HouseNumber": "114",
+              "Street": "W 40th",
+              "PostTown": "New York City",
+              "Postcode": "TJFHD"
+            }
+          }
+        ]
+      },
+      {
+        "LocationIndicator": "C",
+        "ApplicantIndicator": "1",
+        "CAISDetails": [
+          {
+            "MatchDetails": {
+              "StreetMatchLevel": "4",
+              "HouseMatchLevel": "4",
+              "ForenameMatchLevel": "4",
+              "SurnameMatchLevel": "4",
+              "BureauRefCategory": "1",
+              "MatchTo": "1",
+              "MatchType": "I"
+            },
+            "InformationSource": "N",
+            "Balance": {
+              "Narrative": "S"
+            },
+            "AccountStatusCodes": "0665432100000001032",
+            "Status1To2": "4",
+            "StatusTo3": "6",
+            "NumOfMonthsHistory": 19,
+            "CAISAccStartDate": "2021-04-12",
+            "SettlementDate": "2021-01-08",
+            "SettleDateCaption": "S",
+            "LastUpdatedDate": "2021-07-14",
+            "BankFlag": "N",
+            "WorstStatus": "6",
+            "OwnData": "N",
+            "RepaymentPeriod": 0,
+            "DateOfBirth": "1999-07-17",
+            "Sex": "M",
+            "AccountStatus": "S",
+            "NumAddInfoBlocks": 0,
+            "NumAccountBalances": 19,
+            "AccountBalances": [
+              {
+                "AccountBalance": "0000000",
+                "Status": "0"
+              },
+              {
+                "AccountBalance": "0000075",
+                "Status": "6"
+              },
+              {
+                "AccountBalance": "0000075",
+                "Status": "6"
+              },
+              {
+                "AccountBalance": "0000075",
+                "Status": "5"
+              },
+              {
+                "AccountBalance": "0000075",
+                "Status": "4"
+              },
+              {
+                "AccountBalance": "0000075",
+                "Status": "3"
+              },
+              {
+                "AccountBalance": "0000075",
+                "Status": "2"
+              },
+              {
+                "AccountBalance": "0000075",
+                "Status": "1"
+              },
+              {
+                "AccountBalance": "0000075",
+                "Status": "0"
+              },
+              {
+                "AccountBalance": "0000000",
+                "Status": "0"
+              },
+              {
+                "AccountBalance": "0000000",
+                "Status": "0"
+              },
+              {
+                "AccountBalance": "0000000",
+                "Status": "0"
+              },
+              {
+                "AccountBalance": "0000000",
+                "Status": "0"
+              },
+              {
+                "AccountBalance": "0000102",
+                "Status": "0"
+              },
+              {
+                "AccountBalance": "0000118",
+                "Status": "0"
+              },
+              {
+                "AccountBalance": "0000108",
+                "Status": "1"
+              },
+              {
+                "AccountBalance": "0000099",
+                "Status": "0"
+              },
+              {
+                "AccountBalance": "0000123",
+                "Status": "3"
+              },
+              {
+                "AccountBalance": "0000113",
+                "Status": "2"
+              }
+            ],
+            "NumStatuses": 19,
+            "CompanyType": "02",
+            "AccountType": "15",
+            "Name": {
+              "Title": "MR",
+              "Forename": "JOHN",
+              "Surname": "WICK"
+            },
+            "Location": {
+              "HouseNumber": "114",
+              "Street": "W 40th",
+              "PostTown": "New York City",
+              "Postcode": "TJFHD"
+            }
+          },
+          {
+            "MatchDetails": {
+              "StreetMatchLevel": "4",
+              "HouseMatchLevel": "4",
+              "ForenameMatchLevel": "4",
+              "SurnameMatchLevel": "4",
+              "BureauRefCategory": "1",
+              "MatchTo": "1",
+              "MatchType": "I"
+            },
+            "InformationSource": "N",
+            "Balance": {
+              "Narrative": "S"
+            },
+            "AccountStatusCodes": "00000",
+            "Status1To2": "0",
+            "StatusTo3": "0",
+            "NumOfMonthsHistory": 5,
+            "CAISAccStartDate": "2018-11-05",
+            "SettlementDate": "2019-03-12",
+            "SettleDateCaption": "S",
+            "LastUpdatedDate": "2019-04-14",
+            "BankFlag": "N",
+            "WorstStatus": "0",
+            "OwnData": "N",
+            "RepaymentPeriod": 0,
+            "DateOfBirth": "1999-07-17",
+            "Sex": "M",
+            "AccountStatus": "S",
+            "NumAddInfoBlocks": 0,
+            "NumAccountBalances": 5,
+            "AccountBalances": [
+              {
+                "AccountBalance": "0000000",
+                "Status": "0"
+              },
+              {
+                "AccountBalance": "0000000",
+                "Status": "0"
+              },
+              {
+                "AccountBalance": "0000000",
+                "Status": "0"
+              },
+              {
+                "AccountBalance": "0000000",
+                "Status": "0"
+              },
+              {
+                "AccountBalance": "0000000",
+                "Status": "0"
+              }
+            ],
+            "NumStatuses": 5,
+            "CompanyType": "02",
+            "AccountType": "15",
+            "Name": {
+              "Title": "MR",
+              "Forename": "JOHN",
+              "Surname": "WICK"
+            },
+            "Location": {
+              "HouseNumber": "114",
+              "Street": "W 40th",
+              "PostTown": "New York City",
+              "Postcode": "TJFHD"
+            }
+          },
+          {
+            "MatchDetails": {
+              "StreetMatchLevel": "4",
+              "HouseMatchLevel": "4",
+              "ForenameMatchLevel": "4",
+              "SurnameMatchLevel": "4",
+              "BureauRefCategory": "1",
+              "MatchTo": "1",
+              "MatchType": "I"
+            },
+            "InformationSource": "N",
+            "Balance": {
+              "Narrative": "S"
+            },
+            "CreditLimit": {
+              "Amount": "£0",
+              "Caption": "C"
+            },
+            "AccountStatusCodes": "0000000",
+            "Status1To2": "0",
+            "StatusTo3": "0",
+            "NumOfMonthsHistory": 7,
+            "CAISAccStartDate": "2021-06-22",
+            "SettlementDate": "2021-12-24",
+            "SettleDateCaption": "S",
+            "LastUpdatedDate": "2022-01-30",
+            "BankFlag": "N",
+            "WorstStatus": "0",
+            "OwnData": "N",
+            "RepaymentPeriod": 12,
+            "Payment": "£50",
+            "DateOfBirth": "1999-07-17",
+            "Sex": "M",
+            "PaymentFrequency": "M",
+            "AccountStatus": "S",
+            "NumAddInfoBlocks": 0,
+            "NumAccountBalances": 7,
+            "AccountBalances": [
+              {
+                "AccountBalance": "0000000",
+                "Status": "0"
+              },
+              {
+                "AccountBalance": "0000300",
+                "Status": "0"
+              },
+              {
+                "AccountBalance": "0000350",
+                "Status": "0"
+              },
+              {
+                "AccountBalance": "0000400",
+                "Status": "0"
+              },
+              {
+                "AccountBalance": "0000450",
+                "Status": "0"
+              },
+              {
+                "AccountBalance": "0000500",
+                "Status": "0"
+              },
+              {
+                "AccountBalance": "0000550",
+                "Status": "0"
+              }
+            ],
+            "NumStatuses": 7,
+            "CompanyType": "02",
+            "AccountType": "02",
+            "Name": {
+              "Title": "MR",
+              "Forename": "JOHN",
+              "Surname": "WICK"
+            },
+            "Location": {
+              "HouseNumber": "114",
+              "Street": "W 40th",
+              "PostTown": "New York City",
+              "Postcode": "TJFHD"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
